@@ -6,8 +6,8 @@ public class Calculos : MonoBehaviour
 {
     public int num1;
     public int num2;
-    public int resultado
-        ;
+    public int resultado;
+        
     // Start is called before the first frame update
     void Start()
     {
